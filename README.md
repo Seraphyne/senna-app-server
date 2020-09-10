@@ -41,5 +41,5 @@ Back-End: _NodeJS | ExpressJS_
 
 # Contact
 
-* Renata D.[LinkedIn](https://www.linkedin.com/in/renatafd/?locale=en_US)
+* Renata D.: [LinkedIn](https://www.linkedin.com/in/renatafd/?locale=en_US)
 
