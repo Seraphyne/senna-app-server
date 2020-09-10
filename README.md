@@ -33,7 +33,7 @@ Back-End: _NodeJS | ExpressJS_
 ![Register](/src/img/register.jpg "Landing Page | Register.")
 ![Login](/src/img/login.jpg "Login.")
 ![Welcome](/src/img/welcome.jpg "Welcome page for logged in user.") 
-![Learning Words](/srcz/img/words.jpg "Displaying a specific word to translate.")
+![Learning Words](/src/img/words.jpg "Displaying a specific word to translate.")
 
 ## Scripts
 
