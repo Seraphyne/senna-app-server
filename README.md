@@ -21,7 +21,7 @@ _Senna_ is an app for learning Portuguese using the flashcard system and spaced 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=sucess)
 ![](https://img.shields.io/badge/Code-ReactRouter-informational?style=flat&logo=react&logoColor=white&color=sucess)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&logoColor=white&color=sucess)
-![](https://img.shields.io/badge/Code-Enzyme-informational?style=flat&logo=enzyme&logoColor=white&color=sucess)
+![](https://img.shields.io/badge/Code-Cypress.io-informational?style=flat&logo=cypress&chait&logoColor=white&color=sucess)
 
 #### Back-End: 
 
