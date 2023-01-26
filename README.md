@@ -10,7 +10,7 @@ _Senna_ is an app for learning Portuguese using the flashcard system and spaced 
 ## 📌🔗 Links:
 
 * Live: [Senna App](https://senna-language.netlify.app/)
-* Heroku: [API](https://capstone-spaced-repetition.herokuapp.com/)
+* Railway: [API](web-production-a853.up.railway.app)
 * Senna Client: [GitHub](https://github.com/Seraphyne/spaced-repetition-capstone-client)
 * Senna Server: [GitHub](https://github.com/Seraphyne/spaced-repetition-capstone-server)
 
@@ -34,7 +34,7 @@ _Senna_ is an app for learning Portuguese using the flashcard system and spaced 
 
 #### Deployment:
 
-![](https://img.shields.io/badge/Heroku-informational?style=flat&logo=heroku&logoColor=white&color=sucess)
+![](https://img.shields.io/badge/Railway-informational?style=flat&logo=railway&logoColor=white&color=sucess)
 ![](https://img.shields.io/badge/Netlify-informational?style=flat&logo=netlify&logoColor=white&color=sucess)
 
 
